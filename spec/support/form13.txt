@@ -1,0 +1,120 @@
+<SEC-DOCUMENT>0001272544-17-000002.txt : 20170125
+<SEC-HEADER>0001272544-17-000002.hdr.sgml : 20170125
+<ACCEPTANCE-DATETIME>20170125141317
+ACCESSION NUMBER:		0001272544-17-000002
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20161231
+FILED AS OF DATE:		20170125
+DATE AS OF CHANGE:		20170125
+EFFECTIVENESS DATE:		20170125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KOONCE CALVIN SCOTT
+		CENTRAL INDEX KEY:			0001026013
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16553
+		FILM NUMBER:		17545871
+
+	MAIL ADDRESS:	
+		STREET 1:		6229 EXECUTIVE BOULEVARD
+		CITY:			ROCKVILLE
+		STATE:			MD
+		ZIP:			20852
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001026013</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2016</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2016</reportCalendarOrQuarter>
+      <filingManager>
+        <name>KOONCE CALVIN SCOTT</name>
+        <address>
+          <com:street1>6229 EXECUTIVE BOULEVARD</com:street1>
+          <com:city>ROCKVILLE</com:city>
+          <com:stateOrCountry>MD</com:stateOrCountry>
+          <com:zipCode>20852</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16553</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Elaine Schuler</name>
+      <title>Vice President</title>
+      <phone>301-897-9700</phone>
+      <signature>Elaine Schuler</signature>
+      <city>Rockville</city>
+      <stateOrCountry>MD</stateOrCountry>
+      <signatureDate>01-25-2017</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>1</tableEntryTotal>
+      <tableValueTotal>71687</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>inftable2.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="utf-8"?>
+<informationTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+  <infoTable>
+    <nameOfIssuer>VSE Corporation</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>918284100</cusip>
+    <value>71687</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1845698</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1845698</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
